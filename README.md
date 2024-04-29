@@ -1,4 +1,4 @@
-#Ecomm App
+# Ecomm App
 
 ## Purpose
 This is a fun, side-project I took on to play with Hotwire, Tailwind CSS, and Devise. I'll reflect on my learning as I'm done with this project.
