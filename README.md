@@ -1,24 +1,15 @@
-# README
+# Ecomm App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Purpose
+This is a fun, side-project I took on to play with Hotwire, Tailwind CSS, and Devise. I'll reflect on my learning as I'm done with this project.
 
-Things you may want to cover:
+## Specs
+- Rails 7.1.2
+- Ruby 3.2.2
+- Running rails with RSpec and SQLite
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## To run locally in development:
+- clone repo
+- bundle install
+- `bin/dev` to start server (do this as opposed to `rails s` to ensure you get all the Tailwind css updates)
+- to access admin dashboard, use username: admin@example.com, password: password
